@@ -1,0 +1,11 @@
+.idea
+.exe
+build.xml
+manifest.mf
+SaxFx.iml
+/build
+/dist
+/nbproject
+/out
+/lib
+
